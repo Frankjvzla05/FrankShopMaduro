@@ -1,0 +1,18 @@
+[
+    {
+        "id": "women's clothing",
+        "nombre": "Ropa de Mujer"
+    },
+    {
+        "id": "men's clothing",
+        "nombre": "Ropa de Hombre"
+    },
+    {
+        "id": "electronics",
+        "nombre": "Tecnología"
+    },
+    {
+        "id": "jewelery",
+        "nombre": "Joyas"
+    }
+]

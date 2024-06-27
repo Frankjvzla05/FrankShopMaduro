@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mochila Foldsack",
+        "precio": 109.95,
+        "imagen": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "descripcion": "Your perfect pack for everyday use and walks in the forest.",
+        "categoria": {
+            "id": "men's clothing",
+            "nombre": "Ropa de Hombre"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Polera Premium Slim",
+        "precio": 22.3,
+        "imagen": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "descripcion": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket.",
+        "categoria": {
+            "id": "men's clothing",
+            "nombre": "Ropa de Hombre"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Chaqueta Cotton",
+        "precio": 55.99,
+        "imagen": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "descripcion": "Great outerwear jackets for Spring/Autumn/Winter.",
+        "categoria": {
+            "id": "men's clothing",
+            "nombre": "Ropa de Hombre"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Polera Casual Slim",
+        "precio": 15.99,
+        "imagen": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "descripcion": "The color could be slightly different between on the screen and in practice.",
+        "categoria": {
+            "id": "men's clothing",
+            "nombre": "Ropa de Hombre"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Pulsera Dragon",
+        "precio": 695,
+        "imagen": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "descripcion": "Naga was inspired by the mythical water dragon that protects the ocean's pearl.",
+        "categoria": {
+            "id": "jewelery",
+            "nombre": "Joyas"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Pulsera Solid Petite",
+        "precio": 168,
+        "imagen": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "descripcion": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "categoria": {
+            "id": "jewelery",
+            "nombre": "Joyas"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Anillo Plated Princess",
+        "precio": 9.99,
+        "imagen": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "descripcion": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
+        "categoria": {
+            "id": "jewelery",
+            "nombre": "Joyas"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Anillo Rose Gold Double",
+        "precio": 10.99,
+        "imagen": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "descripcion": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "categoria": {
+            "id": "jewelery",
+            "nombre": "Joyas"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Disco Duro WD 2TB",
+        "precio": 64,
+        "imagen": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "descripcion": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "SanDisk SSD PLUS 1TB",
+        "precio": 109,
+        "imagen": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "descripcion": "Easy upgrade for faster boot up, shutdown, application load and response.",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Silicon Power 256GB SSD",
+        "precio": 109,
+        "imagen": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "descripcion": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance.",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "WD 4TB Gaming",
+        "precio": 114,
+        "imagen": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "descripcion": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity.",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 13,
+        "nombre": "Acer SB220Q",
+        "precio": 599,
+        "imagen": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "descripcion": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology.",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 14,
+        "nombre": "Samsung 49-Inch",
+        "precio": 999.99,
+        "imagen": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "descripcion": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY.",
+        "categoria": {
+            "id": "electronics",
+            "nombre": "Tecnología"
+        }
+    },
+    {
+        "id": 15,
+        "nombre": "Chaqueta Snowboard",
+        "precio": 56.99,
+        "imagen": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "descripcion": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester.",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    },
+    {
+        "id": 16,
+        "nombre": "Chaqueta Moto Biker",
+        "precio": 29.95,
+        "imagen": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "descripcion": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER).",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    },
+    {
+        "id": 17,
+        "nombre": "Chaqueta Windbreaker",
+        "precio": 39.99,
+        "imagen": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "descripcion": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design.",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    },
+    {
+        "id": 18,
+        "nombre": "Blusa Sleeve Boat",
+        "precio": 9.85,
+        "imagen": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "descripcion": "95% RAYON 5% SPANDEX, Lightweight fabric with great stretch for comfort.",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    },
+    {
+        "id": 19,
+        "nombre": "Blusa Sleeve Moisture",
+        "precio": 7.95,
+        "imagen": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "descripcion": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit.",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    },
+    {
+        "id": 20,
+        "nombre": "Polera Casual Cotton",
+        "precio": 12.99,
+        "imagen": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "descripcion": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees.",
+        "categoria": {
+            "id": "women's clothing",
+            "nombre": "Ropa de Mujer"
+        }
+    }
+]
